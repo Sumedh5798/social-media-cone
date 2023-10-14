@@ -1,4 +1,4 @@
-# social-media-cone
+# social-media-clone
  # Made a page like linkedin using HTML,CSS and JavaScript This page is also responsive according to the size of the device
 ![SharedScreenshot_1](https://github.com/Sumedh5798/social-media-cone/assets/142483238/0d9395a5-46f9-4132-aa3e-a1be25a8f962)
 # You can go to the profile by clicking on profile photo
